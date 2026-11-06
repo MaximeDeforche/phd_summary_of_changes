@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.12)  6 NOV 2026 16:18
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.12)  6 NOV 2026 16:32
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/madforch/doctoraat/appraisals/main
@@ -564,12 +564,12 @@ Here is how much of LuaTeX's memory you used:
  125240,794899 words of node,token memory allocated
  533 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 1 local_par, 8 glue, 3 kern, 1 penalty, 3 glyph, 13 attribute, 52 glue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 1:2,2:1109,3:274,4:35,5:1773,6:110,7:9729,8:2,9:751,10:21,11:709
+   avail lists: 1:2,2:1109,3:277,4:39,5:1785,6:110,7:9726,8:2,9:754,10:21,11:783
  36307 multiletter control sequences out of 65536+600000
  41 fonts using 3723231 bytes
  73i,9n,92p,1032b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/UGentPannoText-Normal.otf><./fonts/UGentPannoText-SemiBold.otf></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (4 pages, 52075 bytes).
+Output written on main.pdf (4 pages, 51750 bytes).
 
 PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

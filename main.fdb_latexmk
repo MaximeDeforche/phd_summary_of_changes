@@ -1,9 +1,9 @@
 # Fdb version 4
-["lualatex"] 1793830888.37693 "main.tex" "main.pdf" "main" 1793830889.15117 0
+["lualatex"] 1793978500.98539 "main.tex" "main.pdf" "main" 1793978501.72355 0
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1776432528.59511 128410 1ba271527a2b67439d43c045d339a34f ""
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1776432528.45554 127327 bb05cc850edf5447a76a9cb72263daaf ""
-  "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/ugentpannotext-normal.luc" 1793830776.25643 285072 2b0a4133ef05de446df0262d5d1974db ""
-  "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/ugentpannotext-semibold.luc" 1793830776.37644 299597 fcb7e0e89e927473b00499438f814e6c ""
+  "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/ugentpannotext-normal.luc" 1793900423.53391 285072 2b0a4133ef05de446df0262d5d1974db ""
+  "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/ugentpannotext-semibold.luc" 1793900423.66373 299597 fcb7e0e89e927473b00499438f814e6c ""
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1776020626.80121 439747 5fee45120e4cd4d6e5f1095d3faac544 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -132,9 +132,9 @@
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1776020210 5675873 51744526707e961c049f05efe7e185c0 ""
   "fonts/UGentPannoText-Normal.otf" 1764929020.16881 129576 8d367ee6fb730afe18ddb89456bf0fc1 ""
   "fonts/UGentPannoText-SemiBold.otf" 1764929019.92207 131544 2f65b9f9ab48382edabf9413cebbd6da ""
-  "main.aux" 1793830889.06822 280 53bd5523a9cc2dcaaa24c5d8b4421981 "lualatex"
-  "main.out" 1793830888.94822 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "main.tex" 1793830887.4682 12153 99111aa409d0363328181a2db7697a8c ""
+  "main.aux" 1793978501.64778 280 53bd5523a9cc2dcaaa24c5d8b4421981 "lualatex"
+  "main.out" 1793978501.52777 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "main.tex" 1793978500.91776 13105 e2a003b7aab41d8ac69eec0f6bcf5efc ""
   (generated)
   "main.aux"
   "main.log"
