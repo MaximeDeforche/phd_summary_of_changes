@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1793978500.98539 "main.tex" "main.pdf" "main" 1793978501.72355 0
+["lualatex"] 1794219989.01113 "main.tex" "main.pdf" "main" 1794219990.12886 0
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1776432528.59511 128410 1ba271527a2b67439d43c045d339a34f ""
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1776432528.45554 127327 bb05cc850edf5447a76a9cb72263daaf ""
   "/home/madforch/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/ugentpannotext-normal.luc" 1793900423.53391 285072 2b0a4133ef05de446df0262d5d1974db ""
@@ -132,9 +132,9 @@
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1776020210 5675873 51744526707e961c049f05efe7e185c0 ""
   "fonts/UGentPannoText-Normal.otf" 1764929020.16881 129576 8d367ee6fb730afe18ddb89456bf0fc1 ""
   "fonts/UGentPannoText-SemiBold.otf" 1764929019.92207 131544 2f65b9f9ab48382edabf9413cebbd6da ""
-  "main.aux" 1793978501.64778 280 53bd5523a9cc2dcaaa24c5d8b4421981 "lualatex"
-  "main.out" 1793978501.52777 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "main.tex" 1793978500.91776 13105 e2a003b7aab41d8ac69eec0f6bcf5efc ""
+  "main.aux" 1794219990.02987 280 53bd5523a9cc2dcaaa24c5d8b4421981 "lualatex"
+  "main.out" 1794219989.85969 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "main.tex" 1794219857.50798 13188 ffd07b3ffa12841ad35377f3c45a51fd ""
   (generated)
   "main.aux"
   "main.log"
